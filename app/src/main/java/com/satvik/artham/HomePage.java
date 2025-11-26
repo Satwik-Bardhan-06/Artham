@@ -641,6 +641,7 @@ public class HomePage extends AppCompatActivity {
             TypedValue typedValue = new TypedValue();
             context.getTheme().resolveAttribute(attr, typedValue, true);
             return typedValue.data;
+
         }
     }
 }

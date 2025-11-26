@@ -9,10 +9,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="com.example.cashflow" />
-                  <option name="mobileSdkAppId" value="1:921171797069:android:a0faaad0c927d87a2b6804" />
-                  <option name="projectId" value="cash-flow-35b0d" />
-                  <option name="projectNumber" value="921171797069" />
+                  <option name="appId" value="com.satvik.artham" />
+                  <option name="mobileSdkAppId" value="1:468688842282:android:d673d9dd09e029cfb59d53" />
+                  <option name="projectId" value="artham-67" />
+                  <option name="projectNumber" value="468688842282" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
